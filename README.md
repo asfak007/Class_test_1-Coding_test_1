@@ -1,6 +1,6 @@
 # Class_test_1-Coding_test_1
 
-1. Write a C program that declare an integer array length of one hundred (100) (do not initialize the array). Scan values from user into an array until end of file. Print entire array each element separated by space. Check Overflow, Use Function, Don’t use Pointer.
+1. Write a C program that declare an integer array length of one hundred (100) (do not initialize the array). Scan values from user into an array until end of file. Print entire array each element separated by space. Check Overflow,   Don’t use Function, Pointer.
 
 2. Academic Honesty.
 
